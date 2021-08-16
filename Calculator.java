@@ -15,4 +15,6 @@ public class Calculator {
        return b - a;
    }
 
+ //TODO: Faire une Mise à jour visible de tous
+
 }
