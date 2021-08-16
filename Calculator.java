@@ -17,4 +17,13 @@ public class Calculator {
 
  //TODO: Faire une Mise à jour visible de tous
 
+ public int multiplicity(int a, int b) {
+     return a * b;
+ }
+
+ public double multiplicity(double a, double b) {
+     return a * b;
+ }
+
+
 }
